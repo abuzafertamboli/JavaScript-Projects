@@ -8,6 +8,6 @@ Built with:
 <br>
 
 # Project 1:
-"Color Change" project.
+"Color Changer" project.
 - ### Output:
   ![Output](./1-color-changer/images/output_1.jpg)
