@@ -11,3 +11,8 @@ Built with:
 "Color Changer" project.
 - ### Output:
   ![Output](./1-color-changer/images/output_1.jpg)
+
+# Project 2:
+"BMI Calculator" project.
+- ### Output:
+  ![Output](./2-bmi-calculator/images/output_2.jpg)
