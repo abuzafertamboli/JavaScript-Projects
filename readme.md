@@ -16,3 +16,8 @@ Built with:
 "BMI Calculator" project.
 - ### Output:
   ![Output](./2-bmi-calculator/images/output_2.jpg)
+
+# Project 3:
+"Digital Clock" project.
+- ### Output:
+  ![Output](./3-digital-clock/images/output_3.jpg)
