@@ -21,3 +21,8 @@ Built with:
 "Digital Clock" project.
 - ### Output:
   ![Output](./3-digital-clock/images/output_3.jpg)
+
+# Project 4:
+"Guess the Number" project.
+- ### Output:
+  ![Output](./4-guess-the-number/images/output_4.jpg)
