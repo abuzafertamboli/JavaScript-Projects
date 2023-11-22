@@ -26,3 +26,8 @@ Built with:
 "Guess the Number" project.
 - ### Output:
   ![Output](./4-guess-the-number/images/output_4.jpg)
+
+# Project 5:
+"Keyboard Check" project.
+- ### Output:
+  ![Output](./5-keyboard-check/images/output_5.jpg)
