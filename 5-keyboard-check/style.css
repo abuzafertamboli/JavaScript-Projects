@@ -1,0 +1,23 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+}
+
+table, th, td {
+    border: 1px solid #a7a7a7;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.project {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 285px;
+}
+
+.key {
+    font-size: 18px;
+}
