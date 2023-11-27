@@ -31,3 +31,8 @@ Built with:
 "Keyboard Check" project.
 - ### Output:
   ![Output](./5-keyboard-check/images/output_5.jpg)
+
+# Project 6:
+"Unlimited Colors" project.
+- ### Output:
+  ![Output](./6-unlimited-colors/images/output_6.jpg)
