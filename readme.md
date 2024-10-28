@@ -9,30 +9,36 @@ Built with:
 
 # Project 1:
 "Color Changer" project.
+## [Live Preview](https://the-color-changer-js.netlify.app/)
 - ### Output:
   ![Output](./1-color-changer/images/output_1.jpg)
 
 # Project 2:
 "BMI Calculator" project.
+## [Live Preview](https://the-bmi-calculator-js.netlify.app/)
 - ### Output:
   ![Output](./2-bmi-calculator/images/output_2.jpg)
 
 # Project 3:
 "Digital Clock" project.
+## [Live Preview](https://the-digital-clock-js.netlify.app/)
 - ### Output:
   ![Output](./3-digital-clock/images/output_3.jpg)
 
 # Project 4:
 "Guess the Number" project.
+## [Live Preview](https://the-guess-number-game-js.netlify.app/)
 - ### Output:
   ![Output](./4-guess-the-number/images/output_4.jpg)
 
 # Project 5:
 "Keyboard Check" project.
+## [Live Preview](https://the-keyboard-check-js.netlify.app/)
 - ### Output:
   ![Output](./5-keyboard-check/images/output_5.jpg)
 
 # Project 6:
 "Unlimited Colors" project.
+## [Live Preview](https://the-unlimited-colors-js.netlify.app/)
 - ### Output:
   ![Output](./6-unlimited-colors/images/output_6.jpg)
